@@ -7,5 +7,5 @@ c = 89
 def suma():
     print(a+b+c)
 
-suma()
+suma()                       
     
