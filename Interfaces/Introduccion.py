@@ -1,4 +1,4 @@
-print("Hola mundo esta es mi primer interfaz, bienvenidos")         
+print("Hola mundo esta es mi primer interfaz, disfrutala")         
 
 a = 50
 b = 56
@@ -9,7 +9,7 @@ def suma():
 
 suma()    
 
-def imprime():
-    print("Esta es la rama para desarrollar el backend")
-imprime()                   
+def mostrar():
+    print("Esta es la rama esta destinada para los cambios necesarios en el frontend")
+mostrar()                   
     
